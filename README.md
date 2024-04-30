@@ -28,7 +28,7 @@ To use the scripts provided in this repository, you need MATLAB or Octave instal
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/yourusername/thermal-analysis.git
+    git clone https://github.com/willbribeiro/thermal-analysis.git
     ```
 
 2. Navigate to the repository directory:
